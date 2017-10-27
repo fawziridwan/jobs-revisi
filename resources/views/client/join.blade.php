@@ -20,7 +20,7 @@
             <div class="input-field col s6">
               <i class="material-icons prefix">email</i>
               <input id="icon_prefix" type="text" class="validate" name="email">
-              <label for="icon_prefix">Email</label>
+              <label for="icon_prefix">Email</label> 
               <p class="text-danger"></p>
             </div>
           </div>
